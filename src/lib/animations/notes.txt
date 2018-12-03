@@ -1,0 +1,18 @@
+attention_seekers
+	bounce
+	headShake
+	jello
+	swing
+bouncing_entrances
+	bounceIn
+bouncing_exits
+	bounceOut
+flippers
+	flip
+	flipInX
+	flipInY
+	flipOutX
+	flipOutY
+lightspeed
+	lightSpeedIn
+	lightSpeedOut
